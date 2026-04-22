@@ -1,0 +1,5 @@
+﻿Record,BEFORE (The Problem),AFTER (The Solution),The Value
+Zainab Mba,Hypertensoin,Hypertension,Term Normalization: Fixes medical typos for accurate diagnosis counting.
+Dayo Dike,"Dike, Dayo / NGN 19778",Dayo Dike / 19778.0,ETL Cleansing: Formats names and prices for calculation.
+Blessing Salami,Admission Nov 06 > Discharge Oct 28,Date_Issue_Flag: 1,Logical Audit: Detects impossible timelines that skew hospital stays.
+Emeka Iyanda,emeka iyanda / Covid 19,Emeka Iyanda / COVID-19,Case Standardization: Ensures clean brand/report presentation.

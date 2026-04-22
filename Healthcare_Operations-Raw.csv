@@ -1,0 +1,651 @@
+﻿Patient_ID,Patient_Name,Age,Gender,Admission_Date,Discharge_Date,Diagnosis,Treatment_Cost,Payment_Type,Outcome
+0265,Zainab Mba,75,Other,2022/01/12,02-11-2022,Hypertensoin,174151,None,DECEASED
+PT0099,"Dike, Dayo",4,F,20-Apr-2022,28-Apr-2022,Diabeties,NGN 19778,insurance,  Ongoing
+PT-056,"Suleiman, John",27,Other,2022/09/26,19-Oct-2022,Diabetes Mellitus,,government,ongoing
+PT-230,"Fashola, Blessing",45,Unknown,2022/12/01,24/12/2022,Pnemonia,,Insurance,Recovered
+P-0085,Seun Aliyu,16,M,15-Oct-2024,10-28-2024,Heart Failure,NGN 355249,insurance,Discharged
+PAT0221,Blessing Salami,35,F,06/11/2022,28-Oct-2022,Liver Cirrhosis,295246,N/A,Discharged
+PT-271,emeka iyanda,53,M,12-Jul-2024,13-Jul-2024,Covid 19,8092,None,Referred
+P-0239,yemi iyanda,12,Male,07-Jun-2024,23-Jun-2024,Hypertension,,Cash,Referred
+P-0487,musa dike,38,F,06/06/2022,23-Jun-2022,Fractur,TBD,cash,Ongoing
+PT-083,FUNMI UCHE,80,F,2022/06/17,01-Jul-2022,Anaemia,"₦148,218",None,RECOVERED
+P-0454,MUSA IYANDA,9,MALE,2022/08/23,2022/09/10,Hypertensoin,N457653,Government,RECOVERED
+P00307,  Nkechi Okeke  ,84,Female,2023/08/06,23-Aug-2023,Liver Cirrhosis,471423,HMO,ongoing
+PT0572,femi adeyemi,17,M,"December 22, 2022",01-17-2023,Typhiod,N228472,CASH,Recovered
+PT-500,JOHN OGBONNA,47,FEMALE,10/10/2022,25-Oct-2022,Liver Cirrhosis,N133616,cash,Ongoing
+PT-168,"Iyanda, Tunde",43,F,05/08/2022,07-27-2022,Stroke,"₦247,778",cash,Recovered
+PT-420,"Suleiman, Adaeze",75,m,2023/04/07,16-Apr-2023,Pneumonia,,cash,Deceased
+0431,"Ihejirika, Chinwe",55,F,"October 13, 2022",10-18-2022,Pnemonia,NGN 459833,insurance,ongoing
+P00472,joseph suleiman,60,m,06-21-2023,,Anaemia,"₦141,397",insurance,Deceased
+P-0351,femi aliyu,57,F,28-Oct-2023,11-Nov-2023,Liver Cirrhosis,,Private Insurance,  Ongoing
+PT0112,"Fashola, Blessing",88,FEMALE,13/12/2023,2023/12/23,Tubercolosis,"₦377,015",None,Deceased
+P-0316,  Daniel Aliyu  ,88,Other,"August 07, 2023",08-21-2023,Tubercolosis,Unknown,CASH,Recovered
+P-0595,nneka onwudiwe,7,Female,25-Sep-2024,10-22-2024,Hypertension,N181900,government,discharged
+P00339,  Comfort Okeke  ,68,f,12/05/2023,2023/05/26,Covid 19,51973,government,Discharged
+0350,  Seun Ogundimu  ,84,Unknown,12-Jan-2023,01-17-2023,Typhoid Fever,219218,CASH,Discharged
+P00086,TUNDE CHUKWU,10,FEMALE,"May 29, 2024",19-Jun-2024,Pnemonia,NGN 15934,INSURANCE,recovered 
+P00452,"Iyanda, Chioma",21,F,2024/03/12,2024/03/25,Liver Cirrhosis,173025,Insurance,ongoing
+PT0225,  Kofi Onwudiwe  ,53,Other,24-Feb-2024,11/03/2024,Malarya,N80420,Insurance,Discharged
+PT-018,Comfort Ogundimu,27,FEMALE,2023/05/04,2023/05/26,Stroke,399193,Insurance,discharged
+PT-369,Musa Aliyu,13,Male,25/02/2023,20/03/2023,Hypertension,28084,cash,discharged
+PT-193,Nkechi Adeyemi,85,Female,02/09/2022,25/09/2022,Malarya,NGN 186773,INSURANCE,Deceased
+PAT0296,  Emmanuel Adeleke  ,2,M,"July 04, 2022",2022/07/31,Appendicytis,"₦149,969",Government,Ongoing
+P00106,Femi Lawal,7,FEMALE,14/07/2023,28-Jul-2023,Kindey Disease,NGN 207713,INSURANCE,discharged
+PAT0251,  Daniel Ogundimu  ,85,f,2024/09/13,04-Oct-2024,Malaria,297733,Insurance,DECEASED
+PAT0468,CHINWE IHEJIRIKA,11,F,22-Aug-2024,02-Sep-2024,Sepsis,"₦57,636",Private Insurance,Ongoing
+P-0032,adaeze salami,86,FEMALE,"June 25, 2024",24-Jul-2024,Tuberculosis,"₦238,787",Private Insurance,  Ongoing
+0421,  John Ogundimu  ,61,MALE,"July 14, 2024",05/08/2024,Typhoid Fever,245057,insurance,Discharged
+0358,"Chukwu, Peter",77,M,"May 17, 2023",06-07-2023,Hypertensoin,NGN 33869,Insurance,Recovered
+P-0162,fatima fashola,35,F,26/10/2022,04-Nov-2022,Pnemonia,NGN 45328,CASH,Ongoing
+PT-513,seun aliyu,59,M,07-08-2024,19/07/2024,Liver Cirrohsis,N331940,HMO,Ongoing
+PT-315,"Okeke, James",56,M,05-27-2023,17-Jun-2023,Tuberculosis,142877,HMO,DECEASED
+P-0267,Nneka Oduya,38,m,22-Dec-2024,18/01/2025,Diabetes Mellitus,"₦238,657",government,ongoing
+PT-591,Emeka Suleiman,49,F,04-23-2023,03/05/2023,Diabetes Mellitus,Unknown,Private Insurance,Recovered
+PAT0238,"Iyanda, Chinwe",24,M,2024/09/25,2024/10/01,COVID-19,,Hmo,Ongoing
+PT0338,MARY IYANDA,34,M,"March 27, 2024",04-19-2024,Liver Cirrhosis,"₦298,232",Hmo,Discharged
+PT0451,  Tunde Fashola  ,39,Female,03-Oct-2024,26-Oct-2024,Stoke,N303243,government,RECOVERED
+0175,Joseph Adeyemi,63,Male,04-Feb-2023,21-Feb-2023,Fractur,N222910,Hmo,Recovered
+PT-482,Kelechi Dike,11,M,09-Sep-2024,18/09/2024,Appendicitis,N349023,cash,Referred
+P00361,  Zainab Igwe  ,27,m,30/04/2022,21/05/2022,Stoke,NGN 322077,HMO,ongoing
+0022,"Taiwo, Paul",15,M,"November 02, 2022",,Appendicytis,N82643,INSURANCE,Recovered
+0156,DAVID IYANDA,6,f,"March 09, 2023",11/03/2023,Covid 19,476498,INSURANCE,  Ongoing
+PAT0148,MUSA AMADI,25,F,09-07-2024,09-30-2024,Fracture,NGN 294448,None,Ongoing
+PT0261,DANIEL BALOGUN,7,F,2023/02/14,2023/02/20,Covid 19,445077,Private Insurance,recovered 
+PT-192,Aisha Adeleke,84,M,28-Sep-2023,10-26-2023,Hypertensoin,N489771,insurance,discharged
+P-0127,chinwe taiwo,79,F,05-08-2022,2022/05/26,Covid 19,NGN 202564,INSURANCE,discharged
+P-0034,fatima taiwo,9,F,2024/04/14,28/04/2024,Typhoid Fever,209198,N/A,recovered 
+0426,obinna okafor,5,FEMALE,12-06-2023,12-24-2023,Hart Failure,487572,HMO,discharged
+P00160,"Ogbonna, Bola",14,M,2022/01/11,2022/02/05,Diabetes Mellitus,N103247,Hmo,RECOVERED
+P00354,  Blessing Nwosu  ,75,Male,16-Mar-2024,03-17-2024,Stroke,"₦378,625",Hmo,Recovered
+PAT0596,EMMANUEL ADELEKE,37,MALE,"February 04, 2023",2023/02/09,Liver Cirrhosis,458957,N/A,Referred
+PT-519,Fatima Balogun,60,F,15-May-2022,,COVID-19,469600,CASH,RECOVERED
+PT-177,JAMES MBA,57,m,20/05/2024,06-10-2024,Pnemonia,N21898,CASH,Deceased
+P00439,"Eze, James",77,FEMALE,2022/12/19,,Tuberculosis,"₦72,483",Private Insurance,Ongoing
+PAT0380,FUNMI IYANDA,66,M,2022/09/19,,Sepsis,32854,Private Insurance,RECOVERED
+PAT0318,"Taiwo, Seun",30,M,05/11/2022,16-Nov-2022,Pnemonia,NGN 266302,Hmo,Referred
+P-0466,James Nwachukwu,3,F,04-22-2022,2022/05/05,COVID-19,195240,hmo,  Ongoing
+PAT0444,fatima chukwu,53,F,06/10/2023,10-23-2023,Stoke,NGN 374481,hmo,Referred
+0402,Amaka Adeyemi,,F,10/04/2024,01-May-2024,Covid 19,"₦286,312",Private Insurance,ongoing
+P-0562,Mary Dike,22,M,07-25-2022,12-Aug-2022,Malarya,N/A,government,Ongoing
+PT-231,nneka onwudiwe,87,m,06-Jul-2023,03/08/2023,Stoke,"₦344,409",Government,recovered 
+0423,BLESSING OGBONNA,9,M,"April 21, 2023",2023/05/05,COVID-19,N176078,Government,DECEASED
+PT0554,  Yemi Balogun  ,89,F,02-24-2022,26-Mar-2022,Pnemonia,157623,Hmo,Recovered
+0206,  Ngozi Fashola  ,51,F,02-Mar-2022,2022/03/08,Typhoid Fever,NGN 149169,Hmo,Recovered
+P-0346,"Igwe, Bola",12,M,"December 02, 2024",12-24-2024,Fractur,N85084,CASH,ongoing
+P-0607,"Ihejirika, Aisha",78,f,2022/06/08,12-Jun-2022,Diabeties,NGN 51648,cash,recovered 
+0284,YEMI ADESANYA,36,m,11-04-2022,24/11/2022,Covid 19,NGN 430288,Private Insurance,Recovered
+P-0427,Peter Amadi,70,FEMALE,29-Aug-2023,09-23-2023,Liver Cirrohsis,N480466,cash,Referred
+PAT0157,  Amaka Okeke  ,51,M,09-05-2023,24-Sep-2023,Covid 19,N178921,None,Referred
+PAT0294,DAYO OKAFOR,50,M,2024/12/03,23/12/2024,Liver Cirrhosis,N340697,Hmo,Recovered
+PT-509,Emmanuel Onwudiwe,82,F,20-Jun-2024,07-04-2024,Malaria,N259156,INSURANCE,Referred
+P00250,"Nwachukwu, Seun",53,M,05/04/2022,16/04/2022,Kidney Disease,"₦280,155",government,  Ongoing
+PT-140,Peter Oduya,51,Other,01-07-2022,09-Jan-2022,Appendicytis,288725,insurance,discharged
+P-0389,blessing okafor,90,f,09-20-2024,18/10/2024,Appendicitis,"₦81,058",N/A,discharged
+PT-017,  Yemi Adeyemi  ,24,M,05-20-2022,06-18-2022,Anemia,329734,HMO,DECEASED
+P-0450,"Oduya, Kofi",34,FEMALE,06/02/2022,07/03/2022,Fracture,N452151,Hmo,discharged
+P00089,  John Salami  ,58,FEMALE,10-10-2023,26-Oct-2023,COVID-19,149008,cash,RECOVERED
+P00412,chinwe onwudiwe,29,M,"August 22, 2024",20-Sep-2024,Malaria,N324518,INSURANCE,Discharged
+PT-110,tunde abubakar,48,Unknown,28/06/2024,2024/07/15,Fracture,"₦151,113",insurance,Recovered
+PT-065,"Nwosu, Yemi",76,MALE,2024/05/18,05-28-2024,Fracture,"₦60,917",HMO,ongoing
+P-0051,  Obinna Ihejirika  ,26,F,"August 24, 2022",2022/08/29,Tuberculosis,"₦36,267",None,Ongoing
+PT0141,kofi chukwu,83,F,06-Feb-2024,07-Mar-2024,Fracture,Unknown,government,  Ongoing
+PT-046,NKECHI LAWAL,38,f,01-10-2024,02-02-2024,Pneumonia,,Insurance,RECOVERED
+P-0295,daniel lawal,,f,14/12/2022,04/01/2023,Malarya,TBD,None,Discharged
+P00111,  Chiamaka Nwachukwu  ,72,F,2023/06/21,2023/06/28,Kidney Disease,"₦262,530",insurance,Recovered
+PT0012,  David Okonkwo  ,76,f,15/01/2022,01-17-2022,Diabeties,NGN 455696,insurance,RECOVERED
+P00154,samuel ihejirika,13,Male,05-09-2023,2023/05/18,Pneumonia,NGN 46428,HMO,discharged
+P-0211,JOHN ADEYEMI,,f,"February 10, 2022",02-21-2022,Liver Cirrohsis,"₦380,881",None,  Ongoing
+P00349,zainab eze,24,M,"July 01, 2023",07-09-2023,Typhiod,193356,Private Insurance,recovered 
+PAT0062,"Abubakar, David",43,M,11-Oct-2023,13/10/2023,Typhiod,NGN 487832,Cash,Referred
+PAT0458,  Samuel Oduya  ,54,M,"May 30, 2023",06-21-2023,Sepsis,,Private Insurance,RECOVERED
+PAT0463,NKECHI LAWAL,53,Unknown,04-Jul-2022,07-28-2022,Typhiod,390079,hmo,DECEASED
+P-0305,"Chukwu, Paul",20,F,01-20-2022,2022/01/25,Liver Cirrohsis,136582,HMO,Recovered
+PT-334,  Comfort Amadi  ,5,M,12-30-2023,01-11-2024,Typhiod,162444,Government,Discharged
+PAT0342,  Nneka Ogbonna  ,70,Other,"September 16, 2024",21/09/2024,Fracture,352879,CASH,Recovered
+PT0579,  Fatima Adeleke  ,11,m,05-16-2024,2024/05/25,Heart Failure,N350236,Government,Ongoing
+P00263,KOFI TAIWO,50,F,"October 03, 2023",,Kindey Disease,N330353,N/A,Ongoing
+0248,JOSEPH OBI,44,Female,22-Aug-2022,2022/09/06,Tuberculosis,N450996,None,Discharged
+PT-082,emmanuel nwosu,4,M,12-22-2024,2025/01/06,Malarya,NGN 383324,None,ongoing
+PAT0026,Chiamaka Iyanda,,F,2023/12/09,26/12/2023,Fracture,NGN 104656,Insurance,Referred
+PT0517,kelechi mba,24,Other,07-03-2022,07-17-2022,Hypertensoin,"₦175,546",Insurance,Referred
+0025,grace lawal,85,m,2024/03/27,2024/03/30,Appendicytis,NGN 214546,Insurance,Recovered
+PT-173,EMMANUEL IYANDA,59,Female,"September 02, 2023",09-24-2023,Appendicitis,165107,INSURANCE,Deceased
+PT-593,MICHAEL ADESANYA,69,M,10-10-2023,10-20-2023,Stoke,NGN 82293,INSURANCE,Referred
+P-0291,Aisha Chukwu,55,Other,"June 20, 2023",2023/07/02,Covid 19,N111794,hmo,recovered 
+PT-182,"Okeke, Emmanuel",64,Other,2023/10/24,11-12-2023,Anemia,NGN 418298,government,recovered 
+PAT0130,"Okafor, Funmi",62,m,"February 18, 2023",2023/03/08,Malaria,"₦393,440",Cash,Recovered
+0204,  Paul Ogbonna  ,60,F,14/10/2022,,Tuberculosis,"₦121,543",Cash,  Ongoing
+PT-135,"Nwosu, Aisha",24,Male,2024/09/04,2024/09/05,Fracture,NGN 400185,cash,Ongoing
+PT0557,emmanuel abubakar,73,F,31-Jul-2024,24/08/2024,Pnemonia,N486766,cash,Referred
+P00379,  Bola Salami  ,79,M,02-05-2023,2023/02/16,Anemia,NGN 361284,HMO,Referred
+PAT0536,  Musa Iyanda  ,19,F,"September 25, 2023",07/10/2023,Heart Failure,"₦360,624",Insurance,Ongoing
+PAT0217,OBINNA BALOGUN,49,Female,"June 03, 2022",2022/06/06,Anaemia,N473307,Private Insurance,Recovered
+PT0176,comfort okonkwo,36,f,08-15-2023,03-Sep-2023,Hart Failure,305267,CASH,recovered 
+PAT0184,Funmi Suleiman,48,Female,17-Apr-2022,05-11-2022,Fractur,373940,Insurance,Ongoing
+P-0540,kofi salami,47,F,03-02-2022,03-08-2022,Sepsis,NGN 96375,N/A,RECOVERED
+PAT0588,nkechi okeke,74,F,19-Sep-2022,29-Sep-2022,Malarya,N65648,government,RECOVERED
+PAT0366,Comfort Ogbonna,3,m,2023/11/11,,Malaria,NGN 21343,HMO,DECEASED
+0118,"Ihejirika, Rashida",10,F,20-Nov-2022,12-05-2022,Appendicitis,NGN 168883,Private Insurance,  Ongoing
+PT-161,HAUWA CHUKWU,0,M,27-Oct-2023,,Fractur,"₦49,406",Government,RECOVERED
+0492,"Nwachukwu, Bola",-1,Male,30-Jun-2024,28-Jul-2024,Anemia,N159576,Insurance,Deceased
+P-0009,Hauwa Amadi,39,m,2022/11/10,28/11/2022,Anaemia,15211,cash,  Ongoing
+PAT0240,Chidi Uche,68,m,06/02/2022,02-14-2022,Kidney Disease,"₦168,626",insurance,Discharged
+P-0050,  Rashida Fashola  ,1,F,"July 11, 2024",07-13-2024,Pnemonia,N373567,insurance,DECEASED
+0169,"Lawal, Kelechi",11,F,2022/10/18,11-02-2022,Heart Failure,254646,Hmo,Referred
+PT-208,Amaka Adeleke,63,Unknown,2024/10/25,31/10/2024,Appendicitis,NGN 20363,Insurance,recovered 
+PT0388,SEUN OGUNDIMU,36,Other,"September 29, 2022",2022/10/27,Hypertension,"₦321,576",Government,Referred
+P-0258,michael fashola,85,FEMALE,29-Oct-2024,11-18-2024,Pneumonia,NGN 184756,Hmo,recovered 
+P-0098,"Adeyemi, Obinna",71,F,22/11/2024,12-17-2024,Pneumonia,"₦274,144",N/A,Discharged
+PT0359,  Comfort Dike  ,12,F,12-Aug-2022,2022/08/18,Anaemia,"₦371,921",Hmo,Referred
+PT-081,  Joseph Abubakar  ,999,Other,03-01-2022,2022/03/26,Sепsis,"₦8,201",N/A,Recovered
+PT-201,ngozi chukwu,34,FEMALE,2024/03/15,03-24-2024,Diabeties,76361,INSURANCE,Recovered
+PT-120,chinwe adesanya,74,FEMALE,01-24-2023,10-Feb-2023,Stoke,265765,insurance,Discharged
+PAT0435,MARY TAIWO,74,M,06-16-2023,2023/06/21,Stroke,NGN 76039,INSURANCE,Recovered
+0416,"Adeyemi, Hauwa",62,F,15-Jul-2024,02/08/2024,Kidney Disease,"₦119,298",cash,Ongoing
+PT-101,DANIEL CHUKWU,31,MALE,07/09/2022,28-Sep-2022,Diabeties,N479557,Government,RECOVERED
+PT0319,david nwosu,,M,"May 27, 2022",2022/06/03,Tuberculosis,11614,None,Referred
+P00306,yemi adeyemi,61,F,2024/07/10,2024/07/22,Appendicytis,,insurance,Deceased
+PT-103,  Hauwa Ihejirika  ,50,F,31-Mar-2022,09/04/2022,Appendicytis,"₦185,775",Private Insurance,DECEASED
+P-0363,CHIDI BALOGUN,16,m,29-Apr-2024,,Appendicytis,"₦339,235",Insurance,DECEASED
+0033,blessing obi,36,F,2023/05/05,2023/05/28,Typhiod,172619,INSURANCE,Recovered
+PAT0443,  Yemi Uche  ,999,F,"March 15, 2023",2023/03/31,Kidney Disease,235511,INSURANCE,  Ongoing
+P00573,"Adesanya, Femi",32,MALE,"August 08, 2023",08-29-2023,Pneumonia,257272,cash,Discharged
+PT-534,"Okonkwo, Joseph",55,F,27/11/2023,12-08-2023,Diabetes Mellitus,317043,Government,recovered 
+P-0548,KELECHI BALOGUN,70,m,11-15-2023,2023/11/24,Kindey Disease,NGN 363371,Cash,Referred
+0199,  Amaka Adesanya  ,89,M,18/11/2023,2023/12/01,Diabetes Mellitus,N129868,Hmo,Recovered
+P00163,  John Abubakar  ,14,Male,16/09/2023,27-Sep-2023,Liver Cirrohsis,NGN 235803,HMO,  Ongoing
+PAT0059,  Musa Dike  ,85,F,01-Nov-2022,2022/11/13,Hart Failure,N202766,cash,  Ongoing
+PT0079,Samuel Balogun,72,F,07/11/2023,05-Dec-2023,Tubercolosis,NGN 31972,Government,Ongoing
+PT0433,  Musa Dike  ,72,M,05/04/2023,2023/04/10,Pnemonia,N442383,insurance,DECEASED
+0530,"Okonkwo, Aisha",11,M,08-Apr-2023,05-08-2023,Typhoid Fever,167951,government,DECEASED
+P-0067,Nkechi Ihejirika,25,Other,08/10/2022,29/10/2022,Pnemonia,NGN 22492,Private Insurance,Recovered
+0514,DAVID MBA,57,Other,07-01-2022,2022/07/20,Hart Failure,342596,Cash,ongoing
+PT0407,CHIAMAKA AMADI,76,MALE,02-May-2024,05-09-2024,COVID-19,N241149,Cash,Recovered
+0209,  Daniel Okafor  ,21,F,05-23-2023,19/06/2023,Liver Cirrhosis,N120034,cash,  Ongoing
+PAT0567,tunde nwosu,77,F,"July 28, 2022",08-27-2022,Pneumonia,NGN 319503,government,Referred
+PAT0003,NKECHI OBI,69,F,15/02/2024,2024/03/13,Anemia,41466,government,Ongoing
+P-0605,bola lawal,78,m,2024/01/06,26-Jan-2024,Diabeties,N141668,government,Recovered
+P00129,"Igwe, John",36,MALE,"September 07, 2022",20-Sep-2022,Tuberculosis,"₦410,308",CASH,Recovered
+P00558,  Musa Adeleke  ,23,F,05-26-2023,19-Jun-2023,Stroke,"₦350,547",Private Insurance,ongoing
+P00300,femi nwachukwu,31,Other,02-28-2023,2023/03/08,Malaria,67850,government,DECEASED
+0455,"Okonkwo, Zainab",41,M,2024/03/10,05-Apr-2024,Diabetes Mellitus,NGN 112955,Hmo,RECOVERED
+P-0165,Aisha Adeleke,51,Unknown,"August 22, 2022",09-09-2022,Covid 19,N19111,Private Insurance,Ongoing
+PT-241,michael lawal,6,MALE,19-Aug-2023,2023/09/08,Fractur,NGN 75144,Hmo,Deceased
+PT-409,"Adesanya, Hauwa",85,m,21/07/2023,08-16-2023,Covid 19,N482880,Hmo,Recovered
+P-0242,"Amadi, Yemi",-1,Male,09/03/2023,15/03/2023,Appendicytis,420302,HMO,DECEASED
+PAT0368,Nneka Ogundimu,48,F,18/02/2023,19-Feb-2023,Sepsis,NGN 104725,Hmo,Referred
+0191,  Hauwa Lawal  ,55,M,"June 18, 2022",2022/06/23,Diabeties,"₦273,070",None,Recovered
+0277,Yemi Okonkwo,29,F,2023/07/21,2023/08/14,Sepsis,NGN 238495,None,Ongoing
+0114,"Ogundimu, Mary",74,M,2022/09/14,29-Sep-2022,Covid 19,"₦72,284",None,Recovered
+P-0320,"Aliyu, Fatima",5,m,01/08/2024,08-Aug-2024,Fracture,NGN 168635,INSURANCE,DECEASED
+0022,"Taiwo, Paul",15,M,"November 02, 2022",,Appendicytis,N82643,INSURANCE,Recovered
+0204,Paul Ogbonna,60,F,14/10/2022,,Tuberculosis,"₦121,543",Cash,  Ongoing
+PAT0290,mary aliyu,11,MALE,2024/04/16,09/05/2024,Anemia,277504,HMO,DECEASED
+PT-054,"Suleiman, Samuel",61,Unknown,2024/04/16,04-20-2024,Appendicitis,NGN 264768,government,Discharged
+PT0600,"Balogun, Funmi",66,f,"February 17, 2022",08-Mar-2022,Pneumonia,"₦54,573",HMO,discharged
+PAT0243,CHIOMA ABUBAKAR,7,F,10/02/2022,24-Feb-2022,Fracture,N137507,Private Insurance,Recovered
+PT-550,"Onwudiwe, Bola",27,F,"April 24, 2023",12-May-2023,Kindey Disease,183603,cash,  Ongoing
+PAT0477,"Ogundimu, Yemi",60,Male,2022/07/03,07-17-2022,Pneumonia,"₦28,153",Hmo,  Ongoing
+P-0039,NKECHI ABUBAKAR,21,MALE,"August 10, 2022",,Pnemonia,N481067,HMO,Referred
+P00107,  John Okafor  ,11,F,11-Jun-2022,07-08-2022,Hart Failure,58790,cash,DECEASED
+PAT0146,  Fatima Fashola  ,29,MALE,23-Oct-2022,10-Nov-2022,Fractur,N75303,Cash,Ongoing
+P00529,Ngozi Onwudiwe,53,Other,"September 07, 2022",19/09/2022,Sepsis,NGN 29623,HMO,RECOVERED
+P00020,  Daniel Okonkwo  ,85,F,2022/10/03,09-24-2022,Pneumonia,NGN 115430,Cash,DECEASED
+PT-520,  Kelechi Adesanya  ,17,MALE,13-Apr-2024,04-04-2024,Liver Cirrohsis,"₦200,719",None,Ongoing
+0503,tunde oduya,8,MALE,08-May-2024,2024/05/31,Kindey Disease,NGN 481698,Insurance,  Ongoing
+PAT0355,aisha taiwo,16,M,22-Aug-2022,25-Aug-2022,Kindey Disease,"₦273,260",HMO,RECOVERED
+P00512,JOHN OKONKWO,9,F,05-May-2024,24-May-2024,Sepsis,N202816,N/A,Referred
+PT0038,TUNDE ALIYU,26,M,11-09-2022,01/12/2022,Anemia,NGN 248811,None,Deceased
+PT-008,Peter Ogundimu,2,F,2023/07/01,28-Jun-2023,Hypertension,NGN 464199,hmo,recovered 
+0041,Kelechi Chukwu,59,Male,06-10-2024,2024/07/01,Anaemia,N287157,Hmo,Discharged
+0256,"Dike, Seun",79,m,20/01/2023,02-02-2023,Stroke,NGN 104918,insurance,recovered 
+P00123,joseph balogun,51,Unknown,"November 26, 2023",12-21-2023,Typhoid Fever,215442,Insurance,Recovered
+PT0445,"Igwe, Funmi",37,M,01-Oct-2023,2023/10/15,Tubercolosis,454196,N/A,recovered 
+0149,Peter Mba,47,F,12/08/2024,05-Sep-2024,Liver Cirrhosis,"₦484,372",cash,Deceased
+PT0398,JOHN EZE,86,M,06-30-2023,29-Jul-2023,Anemia,,Private Insurance,recovered 
+PT0028,Musa Ogundimu,42,M,"August 29, 2023",12-Sep-2023,Covid 19,NGN 96240,HMO,RECOVERED
+PT0336,"Okafor, David",16,f,24-Jan-2022,,Heart Failure,,hmo,ongoing
+PAT0587,  Blessing Adesanya  ,79,M,15-Dec-2023,14-Jan-2024,Covid 19,479586,Private Insurance,Discharged
+PT-096,"Abubakar, Seun",24,Female,15/06/2024,07-07-2024,Stroke,N399469,Cash,RECOVERED
+0574,"Nwachukwu, Yemi",79,F,16-Nov-2022,,Fracture,NGN 48637,Government,RECOVERED
+0257,  Tunde Amadi  ,58,M,10-29-2024,30/10/2024,Hart Failure,N444781,hmo,recovered 
+PAT0365,"Amadi, Mary",83,Male,09-13-2024,2024/10/12,Stroke,222030,N/A,RECOVERED
+0188,Grace Chukwu,32,Other,06-22-2022,2022/07/12,Liver Cirrhosis,NGN 19063,Cash,RECOVERED
+PAT0396,OBINNA FASHOLA,8,M,2024/03/06,2024/03/15,Malarya,"₦262,803",Government,Discharged
+0285,mary nwachukwu,83,F,02-15-2022,,Anemia,75634,Government,Recovered
+PT-273,"Eze, Dayo",70,MALE,2022/10/23,2022/11/22,Hypertension,"₦296,016",insurance,Recovered
+PAT0546,OBINNA MBA,11,MALE,"June 29, 2024",18/07/2024,Stroke,N181356,Hmo,discharged
+P00031,"Okeke, Comfort",32,Male,12/01/2022,01-20-2022,Liver Cirrohsis,N276559,Insurance,RECOVERED
+PT0232,  Dayo Obi  ,40,Other,17-May-2024,2024/06/01,Typhoid Fever,N360045,Government,Recovered
+PT-192,  Aisha Adeleke  ,84,M,28-Sep-2023,10-26-2023,Hypertensoin,N489771,insurance,discharged
+0015,PAUL BALOGUN,70,M,07-11-2022,27-Jul-2022,Typhoid Fever,478139,INSURANCE,Discharged
+P-0497,PAUL ADEYEMI,34,Unknown,11-21-2022,20/12/2022,Liver Cirrohsis,Free,insurance,ongoing
+PT-268,Rashida Adeyemi,15,M,"June 10, 2023",2023/06/11,Heart Failure,N238600,Insurance,Ongoing
+P-0539,Mary Ogbonna,49,m,03-30-2024,2024/03/31,Hypertension,N/A,hmo,Recovered
+0545,"Iyanda, Zainab",75,F,03-01-2023,03-16-2023,Fracture,N227834,Government,Recovered
+PT-488,  Funmi Aliyu  ,999,M,01-03-2023,05/01/2023,Fractur,NGN 161053,Government,Referred
+PAT0142,  Adaeze Fashola  ,17,f,08/01/2022,23-Jan-2022,Hart Failure,"₦125,410",Hmo,Deceased
+P-0541,CHIAMAKA OKEKE,34,F,02-12-2022,10/03/2022,Appendicitis,N164945,Cash,Deceased
+P00214,  Comfort Adeleke  ,,FEMALE,"March 29, 2023",2023/03/26,Kindey Disease,TBD,cash,Recovered
+PT-393,Femi Ogundimu,24,FEMALE,22/01/2022,23-Jan-2022,Diabetes Mellitus,N364399,cash,Ongoing
+P00260,  Chiamaka Ogundimu  ,42,F,"December 23, 2023",11-Jan-2024,Covid 19,NGN 446130,N/A,Discharged
+P-0598,fatima chukwu,13,Unknown,08-28-2024,2024/09/01,Anemia,N82892,Cash,Recovered
+PT-395,  Seun Adeleke  ,24,F,2023/01/13,04/02/2023,COVID-19,N149904,Private Insurance,DECEASED
+P-0471,  Obinna Fashola  ,37,m,22-Jun-2022,05-Jul-2022,Tuberculosis,122695,Insurance,RECOVERED
+PT0286,yemi obi,52,M,04/08/2023,24-Aug-2023,Tubercolosis,N120009,Government,Recovered
+PT-222,"Mba, Chinwe",31,F,05/09/2023,03/10/2023,Heart Failure,"₦275,961",insurance,recovered 
+PT-353,Fatima Ogundimu,57,M,2023/09/16,2023/09/30,Anaemia,"₦366,734",Hmo,  Ongoing
+P00249,yemi balogun,8,Female,01-Aug-2022,17-Aug-2022,Malarya,NGN 413506,Government,Recovered
+P00269,  Femi Igwe  ,13,Female,28/12/2024,01-04-2025,Tubercolosis,443129,Cash,RECOVERED
+P-0575,paul ogbonna,60,MALE,2024/07/17,06-Aug-2024,Diabeties,N379794,Cash,Recovered
+P00234,musa okeke,31,F,2024/04/07,01/05/2024,COVID-19,NGN 159981,HMO,Discharged
+PT0016,"Obi, Fatima",90,F,11-14-2022,16/11/2022,Kindey Disease,N31289,hmo,  Ongoing
+P-0348,  Aisha Nwosu  ,16,Female,10-13-2023,2023/11/07,Sepsis,NGN 220614,Hmo,Referred
+PAT0413,seun salami,35,m,11-19-2023,,Anemia,,INSURANCE,Recovered
+0618,Chidi Eze,51,Unknown,2023/09/05,2023/09/11,Diabetes Mellitus,N349079,INSURANCE,Recovered
+PAT0505,fatima ogbonna,70,MALE,14/03/2023,2023/03/24,Liver Cirrhosis,17279,None,RECOVERED
+PT-280,"Eze, Kofi",12,M,"January 16, 2024",,Typhiod,"₦427,859",None,RECOVERED
+PAT0441,Tunde Nwosu,13,F,"February 25, 2023",2023/03/03,Hypertension,TBD,Government,Deceased
+P-0364,KOFI OBI,65,FEMALE,13/01/2022,24-Jan-2022,Kindey Disease,"₦20,265",Cash,Deceased
+P00385,  Funmi Eze  ,36,M,24/11/2024,14/12/2024,Typhiod,393857,government,DECEASED
+P00317,"Abubakar, Peter",80,F,2023/01/20,,Hypertensoin,"₦16,602",insurance,Ongoing
+PT0599,"Adeleke, Rashida",77,Female,08/02/2024,07-Mar-2024,Pneumonia,NGN 238370,Insurance,Recovered
+PT0303,chidi oduya,13,FEMALE,"January 11, 2024",2024/01/17,Typhiod,NGN 326432,cash,Recovered
+P-0397,john balogun,56,m,06-Aug-2022,10/08/2022,Diabeties,TBD,None,discharged
+P00580,CHINWE ALIYU,74,Unknown,2022/10/20,19-Nov-2022,Kidney Disease,N93289,Insurance,Recovered
+P00180,seun taiwo,42,f,15-Mar-2024,2024/04/05,COVID-19,241973,government,recovered 
+P00434,kofi chukwu,89,f,28/02/2022,16/03/2022,Anaemia,N309645,Government,Discharged
+PT0577,  Fatima Amadi  ,56,Other,"December 15, 2023",2024/01/05,Kidney Disease,,HMO,Discharged
+PT-549,  Seun Onwudiwe  ,2,MALE,2023/08/01,14-Aug-2023,Tuberculosis,348570,Hmo,DECEASED
+P00264,  James Aliyu  ,78,m,2023/02/01,23/02/2023,Malarya,390393,HMO,Recovered
+0118,"Ihejirika, Rashida",10,F,20-Nov-2022,12-05-2022,Appendicitis,NGN 168883,Private Insurance,  Ongoing
+0609,Kelechi Ogundimu,37,Other,22/07/2022,16-Aug-2022,Malarya,N393653,Hmo,ongoing
+PAT0255,BLESSING BALOGUN,29,M,2023/12/01,2023/12/27,Hart Failure,373100,Insurance,Recovered
+P00215,Funmi Dike,34,m,27/05/2023,22/06/2023,Kindey Disease,,HMO,discharged
+PAT0555,daniel okonkwo,53,M,18/11/2022,02-Dec-2022,Kindey Disease,Unknown,INSURANCE,  Ongoing
+P00391,"Adesanya, Chioma",50,F,06-22-2023,06/07/2023,Pnemonia,N240311,government,Deceased
+0384,  Nkechi Okonkwo  ,31,Other,"April 21, 2024",23/04/2024,Anemia,198241,Government,discharged
+P00313,Chioma Lawal,30,M,2024/06/23,07-02-2024,Pnemonia,,hmo,  Ongoing
+PT-524,david okonkwo,1,F,09/01/2022,23-Jan-2022,Liver Cirrhosis,47545,hmo,Recovered
+0247,ngozi balogun,38,Unknown,03-Oct-2023,07/10/2023,Hypertension,"₦352,789",cash,Deceased
+PT-302,  Seun Adeyemi  ,62,F,2024/10/26,11-17-2024,Stroke,N371081,cash,Referred
+PT-415,"Dike, Mary",55,f,2023/05/23,05-31-2023,Sепsis,N7662,Insurance,Recovered
+PAT0612,FUNMI SULEIMAN,31,M,"December 05, 2022",,Kindey Disease,N492372,None,  Ongoing
+PT0326,Joseph Onwudiwe,31,FEMALE,"May 10, 2022",17-May-2022,Liver Cirrhosis,NGN 326409,cash,Discharged
+0502,Daniel Ihejirika,57,Male,"January 21, 2022",2022/01/24,Appendicitis,"₦409,945",HMO,Recovered
+PAT0440,Seun Okeke,55,F,09/06/2022,04-Jul-2022,Hypertensoin,22192,Hmo,Recovered
+PAT0066,Comfort Lawal,999,M,17/07/2023,08/08/2023,Sепsis,NGN 265428,None,recovered 
+0166,KOFI DIKE,53,F,2022/10/13,11-04-2022,Kidney Disease,202651,Hmo,ongoing
+P00014,Ngozi Oduya,44,F,05-25-2023,06-09-2023,Fractur,"₦247,550",N/A,Recovered
+PAT0075,Rashida Iyanda,0,F,17-Sep-2022,11/10/2022,Stoke,194812,Hmo,RECOVERED
+P-0498,adaeze mba,44,Unknown,"April 06, 2022",11/04/2022,Kidney Disease,,Hmo,recovered 
+P00111,Chiamaka Nwachukwu,72,F,2023/06/21,2023/06/28,Kidney Disease,"₦262,530",insurance,Recovered
+PAT0130,"Okafor, Funmi",62,m,"February 18, 2023",2023/03/08,Malaria,"₦393,440",Cash,Recovered
+PT-035,FATIMA NWACHUKWU,39,M,"May 08, 2024",05-26-2024,Stoke,N233503,Insurance,Discharged
+P-0245,  Obinna Dike  ,46,F,08-28-2023,,Stoke,N365817,cash,Ongoing
+P00424,  Daniel Dike  ,39,Male,09-20-2023,28-Sep-2023,Appendicytis,408570,INSURANCE,Deceased
+P-0200,ZAINAB NWOSU,67,F,02-Feb-2024,05/02/2024,Heart Failure,N434896,insurance,ongoing
+PAT0553,  Comfort Suleiman  ,74,M,02-20-2024,23-Feb-2024,Typhoid Fever,N177407,government,Ongoing
+PT-521,  Samuel Amadi  ,1,M,08-16-2023,,Sепsis,NGN 148289,N/A,DECEASED
+P00327,AISHA BALOGUN,9,F,09-23-2022,30/09/2022,Stoke,N21681,government,discharged
+0301,  Joseph Okonkwo  ,62,Unknown,08-Oct-2023,2023/11/06,Stoke,NGN 405693,HMO,Ongoing
+P00002,chioma chukwu,36,M,23-Nov-2022,11-28-2022,Liver Cirrhosis,N53625,insurance,Deceased
+PT-469,"Okafor, Emeka",71,FEMALE,17/07/2024,08-07-2024,COVID-19,"₦341,120",Insurance,Discharged
+0474,seun chukwu,37,m,05-06-2024,11/05/2024,Pnemonia,N128462,Cash,Deceased
+PAT0436,James Chukwu,,MALE,20/12/2024,01-14-2025,Liver Cirrhosis,Unknown,hmo,Deceased
+0256,"Dike, Seun",79,m,20/01/2023,02-02-2023,Stroke,NGN 104918,insurance,recovered 
+PT0565,DAYO UCHE,86,Female,09/12/2022,2022/12/13,Appendicitis,"₦104,377",hmo,Discharged
+P00603,  Yemi Nwosu  ,5,M,"September 13, 2022",10-01-2022,Fractur,350065,Cash,Ongoing
+PT-179,  Zainab Abubakar  ,38,MALE,"July 02, 2023",24/07/2023,Malaria,N416928,Insurance,Ongoing
+PAT0440,seun okeke,55,F,09/06/2022,04-Jul-2022,Hypertensoin,22192,Hmo,Recovered
+PT-155,rashida taiwo,11,F,11-Jul-2022,29-Jul-2022,Hypertensoin,"₦373,493",insurance,discharged
+PT-532,JOSEPH SALAMI,75,F,25/06/2022,2022/07/08,Sepsis,"₦39,093",Insurance,recovered 
+P00601,  Samuel Lawal  ,42,M,14-Jan-2023,15-Jan-2023,Hart Failure,N415766,insurance,RECOVERED
+0406,Yemi Taiwo,57,f,03-25-2022,15-Mar-2022,Liver Cirrhosis,N466177,insurance,Recovered
+P-0172,ZAINAB ALIYU,69,Female,2024/01/20,2024/01/24,Covid 19,NGN 281674,Government,Discharged
+PT-272,TUNDE TAIWO,65,F,2023/08/17,27-Aug-2023,Fracture,351409,Hmo,Recovered
+PAT0220,FUNMI NWACHUKWU,51,F,2024/09/28,09-21-2024,Appendicytis,"₦198,672",Hmo,Recovered
+P-0092,"Adesanya, Tunde",68,Female,2024/01/16,29-Jan-2024,Liver Cirrhosis,318464,None,DECEASED
+P-0078,"Igwe, Chinwe",13,FEMALE,2024/05/24,06-05-2024,Covid 19,40197,N/A,Recovered
+PAT0341,BOLA ALIYU,7,f,2022/10/30,,Kidney Disease,N164969,Hmo,Recovered
+0611,"Fashola, Peter",60,MALE,19-Jul-2023,08-11-2023,Pnemonia,NGN 50582,HMO,recovered 
+0185,  Emeka Eze  ,88,M,20/01/2022,16/02/2022,Tubercolosis,N74297,insurance,Ongoing
+PT-510,daniel balogun,5,Female,27/01/2024,10/02/2024,Diabetes Mellitus,156828,hmo,Recovered
+PT0581,"Ogundimu, Chinwe",56,Female,2022/12/28,01-02-2023,Stoke,N62796,Government,  Ongoing
+P-0085,Seun Aliyu,16,M,15-Oct-2024,10-28-2024,Heart Failure,NGN 355249,insurance,Discharged
+P00461,  Yemi Obi  ,31,F,11-04-2022,,Liver Cirrohsis,N248353,hmo,Discharged
+PT0404,peter abubakar,9,F,22-Aug-2022,09-11-2022,Diabeties,NGN 228457,None,  Ongoing
+P-0476,Mary Amadi,86,F,2022/01/11,2022/01/24,Fracture,74330,Government,Recovered
+PT0493,"Suleiman, Kelechi",64,MALE,17-Mar-2022,03-Apr-2022,Typhiod,281985,HMO,ongoing
+0376,michael chukwu,71,Female,14-Sep-2024,,Typhoid Fever,N314838,None,Discharged
+PT-087,Peter Dike,14,f,"June 11, 2024",14-Jun-2024,Tubercolosis,"₦183,002",cash,recovered 
+P-0535,  Comfort Eze  ,54,F,06-29-2024,25/07/2024,Hypertensoin,N311458,hmo,DECEASED
+0058,"Adesanya, Mary",50,m,11-06-2024,15-Nov-2024,Appendicitis,NGN 271200,N/A,Recovered
+0378,EMEKA ABUBAKAR,77,M,02-Nov-2023,04/11/2023,Typhoid Fever,470180,None,Recovered
+PAT0116,  Femi Suleiman  ,81,MALE,28/12/2024,01-03-2025,Malarya,NGN 382819,N/A,ongoing
+P-0147,DAVID SULEIMAN,48,M,26/01/2023,17/02/2023,Tubercolosis,Unknown,Hmo,Ongoing
+PT0181,Emmanuel Ogundimu,48,M,2024/09/26,24/10/2024,Kindey Disease,NGN 337839,N/A,Recovered
+PT-464,"Obi, Daniel",31,F,2023/10/04,28-Oct-2023,Liver Cirrohsis,N128699,Cash,Recovered
+P00569,CHIDI ADESANYA,16,MALE,30-Apr-2023,20/05/2023,Hypertensoin,NGN 266476,Cash,Recovered
+PT-392,  Tunde Balogun  ,56,Other,2023/11/18,2023/11/22,COVID-19,"₦246,753",Private Insurance,DECEASED
+PT0117,AMAKA NWOSU,74,Other,"March 08, 2023",29/03/2023,Stoke,NGN 291039,government,Ongoing
+P-0013,"Oduya, Zainab",17,F,13-May-2023,20/05/2023,Diabetes Mellitus,N190753,HMO,discharged
+PT-508,Michael Okeke,19,F,23/04/2024,20-Apr-2024,Typhoid Fever,N198616,Government,RECOVERED
+PT0485,james ogundimu,50,F,"July 04, 2023",07-Jul-2023,Liver Cirrohsis,N102704,government,Discharged
+PAT0073,"Balogun, Femi",28,M,2022/04/14,04-19-2022,Diabeties,"₦295,564",Government,Ongoing
+P00213,"Ihejirika, Samuel",23,Unknown,"April 03, 2023",2023/04/16,Kindey Disease,"₦71,767",Private Insurance,Recovered
+PAT0262,  Nneka Aliyu  ,,M,"July 29, 2022",08-22-2022,Kindey Disease,"₦208,888",hmo,recovered 
+PT-584,  Chidi Adeleke  ,35,F,2024/08/27,2024/09/07,Covid 19,"₦170,268",cash,DECEASED
+PT0152,DANIEL ADEYEMI,86,F,14-Jan-2022,02-04-2022,Diabeties,"₦9,792",hmo,discharged
+PT-344,Kelechi Uche,77,M,01-17-2023,01/02/2023,Hypertensoin,NGN 282566,cash,discharged
+PT0617,Joseph Salami,14,M,12-18-2023,19/12/2023,Fractur,"₦49,430",HMO,Recovered
+P00383,SAMUEL EZE,54,M,"May 21, 2024",07-Jun-2024,Hart Failure,NGN 206701,Cash,Recovered
+PT-377,david mba,86,M,23/09/2024,2024/10/08,Hart Failure,Free,INSURANCE,Ongoing
+PT-064,chiamaka fashola,49,f,"October 16, 2024",2024/10/31,Stroke,N9926,CASH,DECEASED
+PAT0347,blessing mba,18,m,2022/10/10,11-08-2022,Fractur,"₦408,727",government,ongoing
+PT-367,  Yemi Iyanda  ,77,F,2023/09/24,03-Oct-2023,Diabeties,NGN 129592,Hmo,  Ongoing
+P00137,  Kofi Okafor  ,18,F,10-Nov-2022,2022/11/30,Fractur,N483568,None,RECOVERED
+P00525,BLESSING ODUYA,49,Unknown,03-03-2024,29/03/2024,Diabetes Mellitus,"₦495,863",Hmo,Recovered
+PT0029,musa lawal,75,FEMALE,10-Aug-2024,17-Aug-2024,Liver Cirrohsis,"₦422,346",government,Recovered
+PAT0125,MARY DIKE,87,F,"May 03, 2024",01/06/2024,Anaemia,"₦348,718",Private Insurance,Recovered
+PAT0425,  Peter Fashola  ,69,MALE,01-09-2023,02-01-2023,Malarya,NGN 26575,Government,Recovered
+P-0357,adaeze uche,1,Other,26-Jan-2022,11/02/2022,Anaemia,"₦129,716",Government,DECEASED
+PT0531,"Nwachukwu, Amaka",76,FEMALE,05-28-2023,22/05/2023,Tuberculosis,"₦421,342",insurance,recovered 
+PT0559,EMMANUEL TAIWO,21,Other,21/08/2023,09-14-2023,Sепsis,404434,cash,Recovered
+P00401,GRACE NWACHUKWU,57,m,14/10/2022,11-07-2022,Stoke,NGN 420623,Hmo,RECOVERED
+P00160,"Ogbonna, Bola",14,M,2022/01/11,2022/02/05,Diabetes Mellitus,N103247,Hmo,RECOVERED
+P00289,"Ogundimu, Samuel",6,F,15-Apr-2023,2023/04/28,Anemia,480979,HMO,Recovered
+P-0417,"Okonkwo, Funmi",21,M,19-Feb-2022,24-Feb-2022,Malarya,N199207,Private Insurance,DECEASED
+0072,Joseph Chukwu,,Unknown,21-Mar-2023,2023/03/29,Diabetes Mellitus,NGN 197589,Insurance,Discharged
+PAT0597,peter suleiman,57,F,08-20-2023,09-15-2023,Kindey Disease,194910,government,recovered 
+P-0044,"Suleiman, Mary",3,M,08-26-2023,2023/09/03,Covid 19,NGN 253124,HMO,Referred
+P00174,"Ogundimu, Bola",18,M,05-16-2024,06-03-2024,Hart Failure,"₦156,432",INSURANCE,Deceased
+0278,paul balogun,11,Other,"October 14, 2022",07/11/2022,Kindey Disease,N/A,N/A,RECOVERED
+PAT0494,Paul Nwosu,54,F,28-Aug-2022,2022/09/18,Stroke,"₦15,908",CASH,Referred
+P-0005,chioma ogbonna,49,Other,2023/03/26,20/04/2023,Typhiod,NGN 427075,HMO,Ongoing
+P-0459,comfort nwachukwu,60,Other,"December 27, 2024",26-Jan-2025,Sепsis,333601,hmo,Ongoing
+PAT0308,peter suleiman,82,FEMALE,"May 13, 2024",10/06/2024,Diabeties,NGN 124651,cash,DECEASED
+PAT0322,"Balogun, Michael",2,F,"August 31, 2024",25/09/2024,Typhiod,NGN 52920,None,DECEASED
+P-0528,Emeka Eze,30,Other,28/01/2023,2023/02/20,Covid 19,242988,HMO,DECEASED
+0432,"Okonkwo, Funmi",35,F,"December 25, 2022",01-13-2023,Typhoid Fever,NGN 205157,hmo,discharged
+PAT0478,"Amadi, James",34,Other,2024/11/24,2024/11/30,Kindey Disease,"₦405,385",hmo,  Ongoing
+PT0490,"Fashola, Chidi",52,F,"September 13, 2023",2023/10/03,Kidney Disease,N366912,None,Ongoing
+PT0068,"Igwe, Kofi",17,Unknown,"December 23, 2024",01-19-2025,Pneumonia,NGN 257627,Private Insurance,  Ongoing
+PT0543,joseph iyanda,38,Male,11-03-2023,,Liver Cirrohsis,N71300,Cash,Referred
+PT-602,CHIOMA TAIWO,27,F,"January 06, 2023",07-Jan-2023,Liver Cirrohsis,"₦25,522",Government,Ongoing
+0446,JAMES FASHOLA,63,F,22-Mar-2024,13/04/2024,Diabetes Mellitus,215042,Private Insurance,Recovered
+P-0057,  Yemi Lawal  ,150,M,06/04/2023,04-10-2023,Stoke,NGN 158019,HMO,  Ongoing
+P-0403,emeka adeyemi,3,F,04-04-2022,09/04/2022,Malarya,NGN 479303,N/A,recovered 
+P-0556,"Chukwu, Musa",74,MALE,"February 20, 2023",2023/03/07,Typhoid Fever,,INSURANCE,discharged
+P00270,Samuel Suleiman,20,M,2024/07/29,,Diabeties,,None,Ongoing
+PAT0387,  Yemi Adeyemi  ,73,Other,06-May-2022,25/05/2022,Covid 19,429094,CASH,discharged
+P-0563,blessing okafor,5,m,24/06/2024,20/07/2024,Fracture,237776,Government,Recovered
+0007,Michael Adeleke,18,F,06/07/2022,07-11-2022,Liver Cirrohsis,317690,HMO,Discharged
+PT-592,James Eze,74,M,29/09/2023,06-Oct-2023,Fractur,"₦196,377",hmo,DECEASED
+0071,adaeze balogun,18,M,2024/07/18,11-Aug-2024,Anemia,N86014,government,Recovered
+P00270,SAMUEL SULEIMAN,20,M,2024/07/29,,Diabeties,,None,Ongoing
+P-0582,CHIAMAKA OKEKE,25,Other,17-Apr-2024,07/05/2024,Tubercolosis,NGN 46843,insurance,Discharged
+PT-052,Comfort Amadi,60,MALE,2024/04/04,20-Apr-2024,Diabeties,N471313,Private Insurance,Deceased
+P00561,emmanuel onwudiwe,2,Other,08-23-2022,16-Sep-2022,Stoke,"₦48,279",Private Insurance,discharged
+0331,kelechi fashola,65,FEMALE,"November 20, 2022",2022/12/05,Sepsis,NGN 175212,HMO,recovered 
+PT0233,Hauwa Oduya,77,MALE,04/09/2023,2023/09/15,COVID-19,NGN 150167,government,Referred
+PT-126,  Mary Fashola  ,80,M,10-30-2022,,Kidney Disease,N14928,cash,Discharged
+PT-219,"Dike, Paul",47,M,25/05/2024,16-Jun-2024,Typhoid Fever,Unknown,INSURANCE,DECEASED
+PAT0037,fatima igwe,44,M,24-Jul-2023,27-Jul-2023,Hypertension,NGN 32307,Cash,DECEASED
+P-0074,david aliyu,77,M,07-22-2023,2023/08/09,Liver Cirrohsis,351584,INSURANCE,Recovered
+PAT0036,emmanuel ogbonna,17,M,"March 17, 2024",18/03/2024,COVID-19,N459479,INSURANCE,Recovered
+P-0410,Tunde Adeyemi,56,Other,"November 16, 2023",11-Dec-2023,Hypertensoin,"₦32,502",INSURANCE,recovered 
+P-0590,"Oduya, Obinna",86,F,"October 06, 2022",22/10/2022,Liver Cirrohsis,"₦462,147",Government,recovered 
+PT0564,fatima aliyu,48,f,14/02/2023,,Hypertension,"₦181,746",government,DECEASED
+P-0202,Blessing Salami,69,Unknown,02-Mar-2023,11/03/2023,Diabeties,NGN 364690,N/A,Referred
+0533,  Ngozi Lawal  ,9,F,"April 25, 2022",,Tubercolosis,N55242,Cash,  Ongoing
+PT0084,GRACE CHUKWU,87,F,2024/12/15,,Fracture,33721,Cash,Ongoing
+0159,  Dayo Okafor  ,56,Female,18/02/2024,02-28-2024,Kidney Disease,TBD,INSURANCE,Discharged
+PT-011,  Samuel Okeke  ,89,m,01-Oct-2023,2023/10/22,Stroke,241708,Cash,Ongoing
+P-0145,"Adesanya, Daniel",8,Female,"May 24, 2024",05-Jun-2024,Liver Cirrohsis,N370066,HMO,Recovered
+P00332,Samuel Dike,73,m,"February 08, 2024",2024/02/17,Stroke,213189,Private Insurance,Recovered
+PT0428,MARY UCHE,71,F,23/09/2023,10-20-2023,Stroke,176110,Government,DECEASED
+0462,tunde okeke,4,Other,"July 23, 2023",20/08/2023,Kindey Disease,15437,N/A,Recovered
+P-0252,"Onwudiwe, Hauwa",22,M,2024/10/03,12/10/2024,Heart Failure,N342283,HMO,  Ongoing
+PT-292,Mary Fashola,62,Other,"September 21, 2023",14-Oct-2023,Kindey Disease,457895,Private Insurance,Ongoing
+P-0097,"Ihejirika, Musa",25,Unknown,21-Jun-2024,16-Jul-2024,Heart Failure,"₦89,965",None,ongoing
+0568,seun igwe,89,FEMALE,14/09/2024,04-Oct-2024,Fracture,"₦393,924",hmo,ongoing
+PAT0095,Chiamaka Okeke,63,m,04-09-2023,19/04/2023,Heart Failure,442843,government,Deceased
+0236,Seun Ogbonna,72,Female,19/11/2023,2023/11/27,Fractur,NGN 178705,CASH,ongoing
+P00093,David Nwosu,87,M,2023/08/05,08-27-2023,Appendicitis,Unknown,cash,Ongoing
+PT-254,Joseph Suleiman,72,m,2024/07/23,07-25-2024,Tubercolosis,N298680,Private Insurance,DECEASED
+0048,  John Nwosu  ,7,Male,"November 02, 2022",11-05-2022,Diabetes Mellitus,"₦223,195",None,RECOVERED
+PT0246,CHIDI ODUYA,74,F,02/11/2022,05/11/2022,Sepsis,N126194,CASH,Ongoing
+PT-501,Yemi Nwosu,54,Unknown,05-18-2023,04-Jun-2023,Liver Cirrohsis,N425357,HMO,Discharged
+PAT0480,"Nwachukwu, Paul",19,F,17/12/2023,12-27-2023,Tuberculosis,NGN 271725,Government,DECEASED
+0223,chiamaka fashola,17,F,17/05/2024,05-31-2024,Tuberculosis,NGN 442312,cash,Referred
+PT-372,blessing adeyemi,999,F,05-Aug-2022,,Fractur,N374454,Government,Deceased
+P-0374,  Bola Onwudiwe  ,47,M,2023/01/11,2023/02/09,Stroke,N39270,insurance,Deceased
+PAT0119,Emmanuel Eze,14,FEMALE,11-May-2023,05-26-2023,Malaria,TBD,HMO,  Ongoing
+0229,Ngozi Amadi,36,Unknown,"August 08, 2024",07/09/2024,Covid 19,,cash,discharged
+PAT0080,  Kelechi Iyanda  ,85,F,05/04/2023,2023/04/23,Diabetes Mellitus,"₦305,993",None,Discharged
+P00203,nkechi adeyemi,42,Male,07-06-2022,19/07/2022,Covid 19,"₦434,963",Insurance,Discharged
+PT-386,  Michael Lawal  ,,FEMALE,31/12/2024,17-Jan-2025,Anemia,NGN 225733,None,Ongoing
+0414,peter chukwu,29,MALE,"November 18, 2022",12-07-2022,Diabeties,N278557,N/A,Ongoing
+PT0323,ngozi okafor,14,Male,09-26-2024,2024/10/14,Liver Cirrohsis,"₦389,402",Insurance,Referred
+0298,comfort nwachukwu,59,M,26-Feb-2022,02-19-2022,Covid 19,NGN 424515,HMO,Deceased
+P-0105,"Taiwo, Emeka",,m,03-31-2022,2022/04/11,Heart Failure,N432507,CASH,Recovered
+P00138,nneka aliyu,77,M,12-Dec-2024,24/12/2024,Sепsis,"₦37,379",Government,RECOVERED
+PT0518,MUSA ADELEKE,53,FEMALE,13-Jun-2023,12/07/2023,Hypertensoin,"₦399,334",Hmo,RECOVERED
+P-0470,  Musa Igwe  ,21,f,11-23-2024,15-Dec-2024,Liver Cirrohsis,N241710,N/A,Referred
+P00227,Blessing Aliyu,54,M,20-Jan-2023,16-Feb-2023,Kindey Disease,NGN 275795,N/A,Recovered
+PT-419,JAMES UCHE,47,M,2022/03/25,15/04/2022,Hart Failure,"₦112,328",cash,Ongoing
+P00106,Femi Lawal,7,FEMALE,14/07/2023,28-Jul-2023,Kindey Disease,NGN 207713,INSURANCE,discharged
+PT0511,James Lawal,63,M,10-20-2022,03/11/2022,Sепsis,NGN 471122,Cash,Recovered
+PT-481,NNEKA IYANDA,74,Female,02/05/2024,18/05/2024,Sepsis,154045,HMO,Deceased
+0325,  Zainab Onwudiwe  ,71,Female,"May 22, 2022",2022/06/01,Hart Failure,N5377,Private Insurance,Recovered
+PT0465,Chiamaka Okeke,33,F,"October 01, 2024",2024/10/05,Hart Failure,"₦362,951",CASH,recovered 
+P00456,  David Fashola  ,56,m,14/10/2024,11-01-2024,Pnemonia,N160881,None,Ongoing
+PT-335,NNEKA OGBONNA,62,Female,"September 26, 2024",2024/09/30,Hypertensoin,N307138,insurance,recovered 
+0570,NNEKA SULEIMAN,77,M,11-05-2023,26/11/2023,Heart Failure,NGN 222523,None,Recovered
+PT-353,FATIMA OGUNDIMU,57,M,2023/09/16,2023/09/30,Anaemia,"₦366,734",Hmo,  Ongoing
+P-0382,Paul Adeleke,20,MALE,09-15-2022,,COVID-19,,Private Insurance,discharged
+P-0473,COMFORT BALOGUN,56,M,09/10/2024,10-16-2024,Tubercolosis,NGN 144566,Private Insurance,discharged
+PT-055,TUNDE SALAMI,42,F,"April 07, 2024",08-Apr-2024,Fractur,,hmo,Deceased
+PT-299,Chioma Okonkwo,12,M,02/12/2023,08-Dec-2023,Appendicitis,NGN 473879,INSURANCE,Referred
+P00527,NKECHI OKEKE,82,M,2022/08/16,09-01-2022,Hart Failure,"₦392,351",insurance,ongoing
+0399,"Chukwu, Mary",9,f,07-Jan-2022,03-Feb-2022,Diabetes Mellitus,NGN 495231,cash,DECEASED
+PT0445,"Igwe, Funmi",37,M,01-Oct-2023,2023/10/15,Tubercolosis,454196,N/A,recovered 
+P-0337,aisha ogundimu,87,M,"July 01, 2024",07-04-2024,Fractur,"₦211,738",INSURANCE,Deceased
+P00614,"Taiwo, Chidi",45,f,"December 17, 2024",,Stroke,"₦358,643",INSURANCE,Recovered
+P-0009,HAUWA AMADI,39,m,2022/11/10,28/11/2022,Anaemia,15211,cash,  Ongoing
+0132,Femi Aliyu,83,F,"July 03, 2022",27/07/2022,Sепsis,"₦224,092",Insurance,  Ongoing
+P00091,  Tunde Salami  ,42,F,10-23-2024,07/11/2024,Liver Cirrohsis,185060,hmo,DECEASED
+PT0144,emmanuel salami,8,Male,2024/10/28,2024/11/27,Anemia,NGN 357600,Cash,Ongoing
+PAT0552,"Adesanya, David",52,MALE,"October 30, 2023",,Liver Cirrohsis,,INSURANCE,Recovered
+PAT0615,Seun Ogundimu,55,F,02-16-2024,2024/02/20,Sепsis,441064,CASH,Ongoing
+PT0183,"Balogun, Tunde",-1,M,23/07/2024,08-06-2024,Kidney Disease,NGN 467499,INSURANCE,  Ongoing
+0489,Blessing Abubakar,24,m,15/01/2023,2023/02/04,Tubercolosis,232435,Insurance,Discharged
+PT0006,  Nneka Amadi  ,41,m,19-Oct-2024,09-Nov-2024,Malaria,NGN 134303,Private Insurance,ongoing
+PAT0243,Chioma Abubakar,7,F,10/02/2022,24-Feb-2022,Fracture,N137507,Private Insurance,Recovered
+P00321,  Tunde Ogbonna  ,33,F,09-04-2023,09-06-2023,Diabetes Mellitus,NGN 232625,Insurance,Recovered
+PAT0030,  Hauwa Oduya  ,31,MALE,04-06-2023,04-08-2023,Stoke,407909,Hmo,Discharged
+P00479,blessing adeyemi,30,Female,15-Mar-2022,07-Apr-2022,Fractur,N474329,Insurance,discharged
+P00151,"Obi, David",83,F,08-01-2024,08-13-2024,Malaria,"₦261,018",hmo,DECEASED
+PT0486,Tunde Ogundimu,87,f,14-Nov-2022,05/12/2022,Pnemonia,N46514,CASH,Recovered
+P-0551,"Aliyu, Samuel",58,M,02-07-2024,2024/02/12,Kindey Disease,,None,DECEASED
+P-0210,  Chiamaka Adesanya  ,90,Unknown,2022/02/27,03-18-2022,Anemia,N443670,hmo,Ongoing
+P-0496,Joseph Okeke,12,F,09-22-2022,12-Oct-2022,Diabetes Mellitus,N499432,CASH,Ongoing
+PT0583,Zainab Nwosu,-1,F,20/09/2024,,Pneumonia,8788,insurance,Ongoing
+PAT0157,Amaka Okeke,51,M,09-05-2023,24-Sep-2023,Covid 19,N178921,None,Referred
+PT0282,Nneka Ogundimu,59,F,2022/03/23,2022/03/18,Anemia,N96147,government,Discharged
+0499,  Adaeze Balogun  ,14,F,04/11/2024,11-08-2024,Sепsis,NGN 386864,Private Insurance,discharged
+PAT0362,  Obinna Ogundimu  ,46,Male,"October 13, 2024",29-Oct-2024,Liver Cirrohsis,"₦324,504",Private Insurance,Ongoing
+P-0571,david igwe,7,f,"April 01, 2023",2023/04/18,Malarya,8168,N/A,discharged
+0167,  Michael Adeleke  ,89,F,2022/03/17,12/04/2022,Diabetes Mellitus,NGN 349772,INSURANCE,DECEASED
+PAT0619,Samuel Okonkwo,26,F,2023/01/24,,Fracture,178651,INSURANCE,DECEASED
+P00310,funmi okeke,13,M,"August 27, 2024",,Liver Cirrhosis,406078,insurance,Ongoing
+0324,grace ogbonna,6,F,"June 15, 2024",08-Jul-2024,Typhoid Fever,NGN 290013,cash,Referred
+PT0178,BLESSING ONWUDIWE,31,m,"December 20, 2023",12-26-2023,Liver Cirrohsis,113497,Government,Deceased
+PAT0333,  Nkechi Okonkwo  ,39,M,09-08-2023,19/09/2023,Liver Cirrhosis,NGN 366611,hmo,RECOVERED
+PT0604,Daniel Uche,57,Male,2024/10/01,10-13-2024,Kidney Disease,N/A,Cash,Recovered
+P-0060,"Iyanda, Rashida",53,F,14-Oct-2023,09-Nov-2023,Fracture,"₦420,442",Hmo,Recovered
+PT-506,Obinna Adesanya,65,F,2022/05/03,2022/05/20,Diabetes Mellitus,,government,Recovered
+PAT0108,  Musa Salami  ,22,M,21-Dec-2023,,Tubercolosis,N327359,CASH,DECEASED
+P-0422,KOFI NWOSU,15,Male,10-13-2024,30/10/2024,Pnemonia,"₦362,775",Hmo,Deceased
+PT-128,David Mba,88,Other,09-18-2024,2024/09/27,Typhiod,NGN 161035,Private Insurance,Ongoing
+PT0329,"Mba, James",8,Other,19/12/2024,2025/01/15,Diabeties,277359,insurance,Referred
+0027,  Chidi Ogundimu  ,86,m,16-Jan-2024,,Covid 19,NGN 331712,government,  Ongoing
+P00405,EMMANUEL IGWE,74,Male,10-21-2023,11-09-2023,Appendicitis,TBD,INSURANCE,recovered 
+P00448,"Adeleke, Nkechi",19,M,10/08/2022,08-26-2022,COVID-19,20583,Private Insurance,Recovered
+P-0139,  Yemi Igwe  ,88,m,28/09/2024,13/10/2024,Stroke,N222802,Government,Recovered
+PAT0069,ADAEZE SALAMI,29,M,20/01/2024,2024/01/21,Hart Failure,NGN 198245,Government,Discharged
+PT-475,PETER NWOSU,42,M,11-Mar-2023,2023/04/04,Diabeties,N/A,Insurance,Deceased
+P-0143,ZAINAB OKEKE,,F,02-02-2022,06/02/2022,Stroke,373724,Cash,Referred
+PT0453,Seun Dike,75,M,30-Nov-2023,24-Nov-2023,Appendicytis,,Cash,Ongoing
+P00483,comfort eze,83,MALE,24/10/2023,11-Nov-2023,Diabeties,"₦98,328",None,  Ongoing
+P-0076,  Joseph Adeyemi  ,83,M,05-May-2022,19/05/2022,Stoke,237554,insurance,Deceased
+PAT0608,bola onwudiwe,13,M,01-Apr-2023,27/04/2023,Malarya,NGN 464020,Government,  Ongoing
+P00021,"Ogundimu, Obinna",7,M,2024/05/17,,Appendicitis,NGN 339030,INSURANCE,Referred
+0297,Emmanuel Iyanda,53,F,"May 29, 2022",2022/06/02,Sepsis,NGN 420964,Private Insurance,discharged
+PAT0122,"Aliyu, James",52,F,2023/02/03,06-Feb-2023,Heart Failure,NGN 293283,N/A,ongoing
+PT0274,"Abubakar, Comfort",11,MALE,2023/03/07,04-05-2023,Malarya,NGN 328425,Cash,Recovered
+P-0024,chinwe okonkwo,43,F,2023/05/24,16/06/2023,Fracture,N455150,Cash,Ongoing
+P-0589,rashida okeke,85,M,05-Aug-2022,08-06-2022,Sепsis,N478247,None,Ongoing
+P-0088,EMEKA OGUNDIMU,25,Unknown,12-21-2023,2023/12/26,Typhoid Fever,85147,INSURANCE,recovered 
+P-0061,Hauwa Iyanda,57,F,13-Dec-2024,,Malaria,"₦348,293",insurance,discharged
+P00578,"Adesanya, Rashida",,Unknown,02-27-2022,03-14-2022,Pneumonia,"₦308,217",Insurance,Recovered
+P-0275,COMFORT ONWUDIWE,71,M,2022/05/30,08/06/2022,Typhoid Fever,NGN 260428,cash,Recovered
+0304,"Okeke, Samuel",48,Unknown,2024/03/31,04-19-2024,Anemia,431870,Private Insurance,Ongoing
+PAT0226,"Adeyemi, Rashida",48,M,2023/11/23,20-Dec-2023,Tubercolosis,"₦56,494",INSURANCE,Ongoing
+PT-311,"Nwosu, Bola",32,MALE,06-26-2024,07-23-2024,Hypertension,,cash,  Ongoing
+PT-266,  Musa Nwachukwu  ,10,FEMALE,12-12-2024,29/12/2024,Liver Cirrohsis,N223067,insurance,Deceased
+PT0544,  Mary Ihejirika  ,66,M,2024/11/08,11-23-2024,Appendicitis,N280500,Private Insurance,discharged
+P-0467,BLESSING ADELEKE,51,Other,09/09/2023,10-04-2023,Pnemonia,"₦471,745",Hmo,DECEASED
+PAT0010,rashida adeyemi,11,M,22/09/2024,10-10-2024,Malaria,"₦293,255",CASH,RECOVERED
+PT0224,  Funmi Adeleke  ,42,Other,30-Nov-2024,01-Dec-2024,Diabetes Mellitus,82699,insurance,ongoing
+P00164,Nkechi Eze,89,m,2024/09/08,2024/09/21,Pnemonia,N336823,Government,recovered 
+PAT0004,funmi onwudiwe,49,Other,2024/07/17,07-29-2024,Covid 19,496076,Government,DECEASED
+PT-189,"Okeke, Hauwa",7,f,10-Oct-2024,30/09/2024,Heart Failure,NGN 11326,cash,Recovered
+PAT0212,ngozi okonkwo,19,F,2024/12/13,25-Dec-2024,Anemia,NGN 163211,INSURANCE,Recovered
+P00279,  Amaka Dike  ,76,m,"March 17, 2022",15-Apr-2022,COVID-19,N196794,Cash,recovered 
+PT-254,Joseph Suleiman,72,m,2024/07/23,07-25-2024,Tubercolosis,N298680,Private Insurance,DECEASED
+PAT0400,EMMANUEL ADEYEMI,44,M,2024/07/30,05/08/2024,Fracture,N161694,insurance,DECEASED
+P-0576,  Chidi Okonkwo  ,48,F,08-Apr-2024,2024/05/02,Fracture,341094,HMO,Recovered
+0522,grace dike,66,MALE,04-04-2022,23/04/2022,Pnemonia,N/A,N/A,Recovered
+PT0449,JOHN ODUYA,49,FEMALE,2022/11/09,13/11/2022,Covid 19,N407428,None,discharged
+P00170,BLESSING IGWE,15,M,04/12/2023,12-10-2023,Heart Failure,NGN 88957,hmo,Discharged
+P-0586,  James Salami  ,61,F,20/01/2023,2023/02/16,Hypertension,462931,None,Referred
+P-0526,Amaka Aliyu,46,m,"July 04, 2022",07-30-2022,Typhiod,195316,CASH,discharged
+0507,MUSA IYANDA,31,f,2023/12/19,01-14-2024,Kidney Disease,"₦391,668",insurance,Deceased
+PT-408,tunde abubakar,79,M,2023/09/09,09-27-2023,Typhoid Fever,282976,Government,Deceased
+PT-195,yemi okafor,14,F,"April 13, 2023",,Tubercolosis,133215,Hmo,Deceased
+P-0620,Mary Oduya,63,F,2022/09/18,13-Oct-2022,Heart Failure,N393965,INSURANCE,Recovered
+PAT0047,"Suleiman, Seun",2,MALE,19-Aug-2024,25/08/2024,Pneumonia,255467,N/A,Recovered
+0297,EMMANUEL IYANDA,53,F,"May 29, 2022",2022/06/02,Sepsis,NGN 420964,Private Insurance,discharged
+0133,John Fashola,2,MALE,2022/08/08,29-Aug-2022,Sepsis,N451200,CASH,Ongoing
+P-0498,Adaeze Mba,44,Unknown,"April 06, 2022",11/04/2022,Kidney Disease,,Hmo,recovered 
+0171,"Ihejirika, Dayo",24,F,21/03/2024,04-19-2024,Stroke,208861,Private Insurance,Ongoing
+PAT0023,JAMES UCHE,27,f,2022/07/30,28-Aug-2022,Anaemia,"₦490,366",N/A,Recovered
+PT-516,  Blessing Nwosu  ,52,F,03/10/2024,09-Oct-2024,Hypertension,N171399,CASH,Recovered
+PT-537,PAUL ONWUDIWE,26,m,17/02/2023,11-Mar-2023,Kidney Disease,NGN 250053,N/A,ongoing
+PT-430,Ngozi Amadi,55,Unknown,2024/03/01,,Appendicytis,238610,Cash,Referred
+P-0495,"Okafor, Mary",29,FEMALE,08-17-2024,10-Sep-2024,Fractur,NGN 357902,None,discharged
+P00070,james balogun,80,FEMALE,30/03/2023,2023/04/14,COVID-19,78283,Insurance,Ongoing
+PT0447,James Okeke,52,F,22-Apr-2023,2023/05/01,Liver Cirrhosis,N342552,cash,discharged
+PT-121,peter adesanya,7,F,31-Jul-2023,27-Aug-2023,Pnemonia,449162,HMO,Recovered
+PAT0460,peter eze,88,MALE,10-Jun-2024,07/07/2024,COVID-19,NGN 221236,N/A,Ongoing
+0375,peter onwudiwe,45,Male,06/11/2024,29/11/2024,Appendicitis,NGN 42184,hmo,discharged
+0356,tunde aliyu,73,Male,11-29-2022,22/12/2022,Fractur,N387815,CASH,DECEASED
+P00594,Tunde Abubakar,89,F,"July 15, 2023",08-11-2023,Stoke,202503,None,Deceased
+P-0610,  Obinna Okonkwo  ,85,Male,20-Oct-2022,29/10/2022,Sепsis,"₦199,065",government,ongoing
+P00289,"Ogundimu, Samuel",6,F,15-Apr-2023,2023/04/28,Anemia,480979,HMO,Recovered
+P00131,daniel adesanya,,F,08-Nov-2023,05/11/2023,Hart Failure,N87806,government,discharged
+PT-045,"Okafor, David",33,f,09-05-2022,09-29-2022,Typhoid Fever,NGN 258859,Private Insurance,ongoing
+P-0158,Funmi Ogundimu,,F,21/04/2023,16-May-2023,Liver Cirrhosis,NGN 337463,None,discharged
+0547,"Okafor, Chinwe",49,M,03-Jan-2023,24/01/2023,Appendicytis,159412,None,Ongoing
+PT0207,  Joseph Abubakar  ,38,F,"April 23, 2024",2024/04/26,Fracture,"₦109,573",government,recovered 
+PT0486,Tunde Ogundimu,87,f,14-Nov-2022,05/12/2022,Pnemonia,N46514,CASH,Recovered
+PAT0309,"Abubakar, Zainab",57,Unknown,02-Dec-2024,08/12/2024,Malaria,NGN 352090,Private Insurance,Referred
+0352,  Aisha Adeleke  ,74,F,02/12/2024,29/12/2024,Sepsis,N276949,Private Insurance,Recovered
+PT0560,Hauwa Aliyu,22,Other,"March 01, 2023",,Hypertension,Free,HMO,Deceased
+PT-077,bola nwosu,82,FEMALE,"February 20, 2024",06-Mar-2024,Diabetes Mellitus,"₦64,985",HMO,discharged
+PT0102,hauwa iyanda,38,F,"January 04, 2022",23-Jan-2022,Malarya,NGN 49886,insurance,RECOVERED
+PT-457,  Funmi Taiwo  ,44,Other,"May 18, 2022",03-Jun-2022,Typhoid Fever,NGN 45192,hmo,recovered 
+P-0198,Kofi Iyanda,32,M,"January 25, 2024",02-19-2024,Kindey Disease,"₦403,711",INSURANCE,Recovered
+0196,BOLA FASHOLA,84,F,2023/04/05,2023/05/05,Pneumonia,NGN 304649,insurance,RECOVERED
+P-0043,John Okeke,44,Other,"July 20, 2023",,Typhoid Fever,Free,Hmo,RECOVERED
+PT-524,David Okonkwo,1,F,09/01/2022,23-Jan-2022,Liver Cirrhosis,47545,hmo,Recovered
+0585,FATIMA ABUBAKAR,43,F,07-Jan-2022,01-20-2022,Hypertension,NGN 460609,Private Insurance,recovered 
+PT0109,"Oduya, Emeka",87,Female,03-05-2022,27-Mar-2022,Hypertensoin,NGN 128729,cash,Discharged
+PT0090,"Salami, Musa",,Unknown,11/08/2023,08/09/2023,Anaemia,N206579,Government,RECOVERED
+P00394,kofi obi,,M,"April 27, 2022",05-24-2022,Anaemia,376235,insurance,  Ongoing
+P00216,"Fashola, Chinwe",49,Unknown,08/02/2024,03-05-2024,Malarya,424008,CASH,Recovered
+PAT0283,MICHAEL SULEIMAN,49,f,23-Nov-2024,2024/12/21,Stoke,470133,hmo,Recovered
+P-0244,"Lawal, Chidi",85,Other,08-Oct-2022,12/10/2022,Pnemonia,N60712,Cash,ongoing
+PAT0381,Adaeze Onwudiwe,31,F,2024/03/18,31-Mar-2024,Fractur,"₦352,334",Hmo,Recovered
+PAT0542,  Yemi Ogundimu  ,9,F,10-23-2022,30-Oct-2022,Kidney Disease,N319336,government,Ongoing
+PAT0371,  Adaeze Okonkwo  ,14,m,"December 19, 2023",2023/12/24,Anemia,NGN 42351,Government,Deceased
+PT0370,Kelechi Ogundimu,0,m,10-20-2023,2023/10/29,Liver Cirrhosis,NGN 66682,INSURANCE,Recovered
+0340,james okafor,77,M,09-17-2023,07-Oct-2023,Anaemia,"₦28,528",Cash,DECEASED
+PT0134,"Fashola, David",24,M,2023/11/22,12-17-2023,Malarya,N339876,N/A,Discharged
+0566,adaeze adesanya,42,Female,31-Jan-2022,01-Feb-2022,Typhoid Fever,NGN 39611,government,ongoing
+P00014,NGOZI ODUYA,44,F,05-25-2023,06-09-2023,Fractur,"₦247,550",N/A,Recovered
+P00100,david ihejirika,37,F,12-Oct-2022,13/10/2022,Hypertension,"₦442,761",hmo,Referred
+0115,HAUWA AMADI,67,Male,09-15-2023,10-15-2023,Appendicytis,NGN 277051,N/A,Recovered
+0616,kofi obi,999,M,2023/03/22,12/04/2023,Sепsis,N328878,Insurance,Deceased
+PT0343,  Kofi Okeke  ,60,M,17-May-2022,2022/06/08,Tubercolosis,N158351,Cash,Discharged
+PT0613,  Samuel Oduya  ,18,F,"October 16, 2024",07/11/2024,Fracture,,Cash,  Ongoing
+PAT0504,daniel abubakar,58,m,2024/06/24,20-Jul-2024,Liver Cirrhosis,163089,Insurance,RECOVERED
+P-0259,  Seun Chukwu  ,66,MALE,"October 05, 2023",10-12-2023,Anaemia,NGN 364982,government,Recovered
+0190,Comfort Chukwu,23,F,30/05/2022,2022/05/31,Typhoid Fever,,Insurance,recovered 
+PAT0442,  Yemi Onwudiwe  ,79,f,"October 31, 2024",,Tuberculosis,"₦12,331",Private Insurance,Ongoing
+P00104,  Kelechi Aliyu  ,43,Male,2022/04/01,04-28-2022,Tuberculosis,N248596,government,Recovered
+PT-287,  Chiamaka Abubakar  ,88,FEMALE,"July 17, 2024",25-Jul-2024,Fracture,"₦13,683",hmo,  Ongoing
+0484,funmi okonkwo,52,MALE,12/11/2022,08-Dec-2022,Kindey Disease,"₦167,582",cash,DECEASED
+0293,yemi balogun,44,F,26-Nov-2022,27/11/2022,Tuberculosis,N490418,insurance,Recovered
+0218,"Abubakar, Yemi",13,FEMALE,02-25-2023,2023/03/15,Covid 19,129543,Insurance,Discharged
+P-0330,chioma adeleke,85,f,"January 02, 2023",16/01/2023,Liver Cirrhosis,N192675,Private Insurance,DECEASED
+PT-054,"Suleiman, Samuel",61,Unknown,2024/04/16,04-20-2024,Appendicitis,NGN 264768,government,Discharged
+P00001,Adaeze Okonkwo,18,F,"June 28, 2022",29/06/2022,Typhoid Fever,320631,hmo,Ongoing
+P00042,Michael Obi,12,Other,07-12-2024,31-Jul-2024,Appendicitis,,N/A,Deceased
+PT0187,joseph suleiman,28,Male,"April 23, 2024",05-21-2024,Diabeties,78407,Government,Referred
+0049,"Amadi, Blessing",76,F,"September 18, 2023",08/10/2023,Liver Cirrhosis,NGN 115637,government,Recovered
+PT-328,  Joseph Taiwo  ,47,f,26/05/2022,02-Jun-2022,Sепsis,N46920,None,DECEASED
+P-0253,"Salami, Funmi",58,M,17-Oct-2024,02/11/2024,Diabetes Mellitus,23786,N/A,Recovered
+P-0429,michael ogundimu,36,m,16/02/2022,03/03/2022,Heart Failure,NGN 262145,Government,ongoing
+PT-360,JAMES AMADI,39,FEMALE,25-Jan-2024,19-Feb-2024,Tuberculosis,N158528,INSURANCE,Recovered
+PT-288,chinwe dike,23,F,"March 21, 2022",25/03/2022,Stoke,477899,None,DECEASED
+PAT0373,david dike,86,M,"August 11, 2024",07-Sep-2024,Diabetes Mellitus,N363863,Hmo,Ongoing
+P00276,Rashida Balogun,25,FEMALE,22-Sep-2024,2024/10/14,Kidney Disease,NGN 301512,None,Deceased
+PT-113,dayo balogun,31,F,2022/02/23,07-Mar-2022,Liver Cirrohsis,73037,insurance,Ongoing
+PAT0312,  Mary Salami  ,71,M,"October 04, 2022",24-Oct-2022,COVID-19,N464954,hmo,DECEASED
+P-0351,Femi Aliyu,57,F,28-Oct-2023,11-Nov-2023,Liver Cirrhosis,,Private Insurance,  Ongoing
+P-0438,hauwa adesanya,72,F,04-May-2024,05-08-2024,Sепsis,,cash,Ongoing
+P00523,"Obi, Paul",65,FEMALE,2023/12/03,26-Dec-2023,Pneumonia,NGN 173631,Cash,discharged
+PT0063,SAMUEL BALOGUN,89,MALE,01/03/2022,2022/03/03,Appendicytis,"₦81,320",hmo,Discharged
+PT0491,SEUN EZE,3,m,02-24-2022,03-01-2022,Fractur,"₦454,938",insurance,Ongoing
+0492,"Nwachukwu, Bola",-1,Male,30-Jun-2024,28-Jul-2024,Anemia,N159576,Insurance,Deceased
+0345,Yemi Okonkwo,46,MALE,"April 29, 2023",2023/05/01,Sepsis,432220,hmo,Ongoing
+PT-228,Yemi Nwosu,52,Male,"December 09, 2024",,Typhoid Fever,110238,Cash,Recovered
+PAT0237,PETER ONWUDIWE,82,M,08-25-2024,22-Sep-2024,Heart Failure,"₦33,344",INSURANCE,Ongoing
+P-0314,"Lawal, Grace",89,F,2024/09/04,,Fractur,"₦318,001",None,Recovered
+PT-538,David Abubakar,21,F,19/07/2024,18/08/2024,COVID-19,N125729,Government,Ongoing
+PT0418,Emeka Adeleke,38,F,"July 07, 2023",08-02-2023,Liver Cirrohsis,NGN 330297,Private Insurance,Recovered
+0390,"Adesanya, Fatima",22,m,08/12/2023,02/01/2024,Hypertensoin,N214057,CASH,discharged
+PT-053,OBINNA OKONKWO,87,M,"July 06, 2023",,Liver Cirrhosis,N277086,CASH,Recovered
+P00094,  Emmanuel Eze  ,11,MALE,2024/02/11,04/03/2024,COVID-19,NGN 271594,Insurance,Deceased
+0205,JAMES ODUYA,34,M,14/02/2022,07-Mar-2022,Liver Cirrohsis,NGN 479521,insurance,Recovered
+PAT0612,Funmi Suleiman,31,M,"December 05, 2022",,Kindey Disease,N492372,None,  Ongoing
+PT-019,COMFORT BALOGUN,65,Other,2022/09/29,10-28-2022,Appendicytis,NGN 234734,Government,recovered 
+PAT0437,Musa Obi,75,Unknown,22/10/2022,2022/11/01,Liver Cirrhosis,"₦183,422",insurance,Ongoing
+0150,tunde iyanda,3,Other,2024/05/05,05-16-2024,Fracture,N133833,hmo,DECEASED
+P00197,ngozi fashola,6,M,22-May-2022,2022/06/16,Appendicitis,Free,Insurance,Deceased
+P-0281,blessing fashola,73,Male,2024/09/17,,Liver Cirrhosis,NGN 37957,cash,Ongoing
+P-0040,emeka iyanda,39,F,2022/03/26,2022/04/17,Diabeties,183903,N/A,Discharged
+PT0411,JOHN OGUNDIMU,31,M,30-Oct-2023,2023/11/21,Typhiod,"₦175,987",insurance,Ongoing
+PT-136,Comfort Okonkwo,89,f,08/05/2022,14-May-2022,Covid 19,NGN 474299,Private Insurance,Recovered
+P-0124,"Ihejirika, David",20,Male,"November 03, 2023",2023/11/16,Anemia,N439262,Private Insurance,ongoing
+0235,  Tunde Iyanda  ,44,f,30-Dec-2024,2025/01/21,Heart Failure,"₦94,121",CASH,Recovered
+PAT0153,  Ngozi Abubakar  ,85,F,02/02/2022,16/02/2022,Hypertension,NGN 149043,Insurance,RECOVERED
+PT-288,Chinwe Dike,23,F,"March 21, 2022",25/03/2022,Stoke,477899,None,DECEASED
+0606,Peter Nwosu,89,Male,22/02/2023,03-03-2023,Kidney Disease,"₦349,623",HMO,  Ongoing
+P-0194,ZAINAB OGBONNA,4,FEMALE,2024/05/29,07/06/2024,Stoke,193808,Hmo,  Ongoing
+0186,FUNMI OGBONNA,48,MALE,08-Oct-2022,11-02-2022,COVID-19,79896,hmo,ongoing
+PT-513,Seun Aliyu,59,M,07-08-2024,19/07/2024,Liver Cirrohsis,N331940,HMO,Ongoing
+PT-515,COMFORT ALIYU,67,m,"September 01, 2024",09-05-2024,Hypertension,"₦112,901",N/A,Referred

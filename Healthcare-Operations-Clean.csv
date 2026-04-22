@@ -1,4 +1,4 @@
-clean_patient_id,patient_id,patient_name,age,gender,admission_date,discharge_date,diagnosis,treatment_cost,payment_type,outcome,date_integrity_flag,length_of_stay
+﻿clean_patient_id,patient_id,patient_name,age,gender,admission_date,discharge_date,diagnosis,treatment_cost,payment_type,outcome,date_integrity_flag,length_of_stay
 PT-0001,265,Zainab Mba,75,Other,1/12/2022,2/11/2022,Hypertension,174151,Unspecified,Deceased,0,30
 PT-0002,PT0099,Dayo Dike,4,Female,,,Diabetes,19778,Insurance,Ongoing,0,0
 PT-0003,PT-056,John Suleiman,27,Other,9/26/2022,,Diabetes,0,Government,Ongoing,0,0
